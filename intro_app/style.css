@@ -1,0 +1,14 @@
+body {
+   background: white; 
+}
+
+.userItems p:nth-child(even) {
+    background: gray;
+}
+
+.userItems p:nth-child(odd) {
+    background: green;
+}
+footer {
+    background:pink;
+}
