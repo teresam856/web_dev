@@ -17,6 +17,7 @@ function createNewItem(itemText) {
 
 var main = function () {
     "use strict";
+    console.log("the document is ready...")
     console.log("I will begin to execute the main function")
 
     $(".userItem button").on("click", function (event) {
