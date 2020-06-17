@@ -1,7 +1,9 @@
 body {
    background: white; 
 }
-
+.userItem button:hover {
+    cursor: pointer;
+}
 .userItems p:nth-child(even) {
     background: gray;
 }
