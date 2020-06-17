@@ -1,0 +1,16 @@
+body {
+   background: white; 
+}
+.userItem button:hover {
+    cursor: pointer;
+}
+.userItems p:nth-child(even) {
+    background: gray;
+}
+
+.userItems p:nth-child(odd) {
+    background: green;
+}
+footer {
+    background:pink;
+}
